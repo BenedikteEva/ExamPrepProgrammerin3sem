@@ -1,0 +1,40 @@
+.MagiHeader {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 50px;
+}
+
+.App-header {
+  background-color: grey;
+  height: 100px;
+  padding: 10px;
+  color: rgb(235, 231, 243);
+}
+
+.App-title {
+  font-size: 1em;
+}
+
+.App-intro {
+  font-size: medium;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.App-footer{
+  text-align: center;
+  background-color: grey;
+  height: 30px;
+  padding: 10px;
+  color:  rgb(235, 231, 243);
+}
+
+.App-miniLogo{
+  height: 20px;
+}
